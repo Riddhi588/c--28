@@ -12,7 +12,7 @@ class Launcher
         if(this.launcher.bodyA!== null ) {
         stroke("black");
         strokeWeight(4);
-        line(this.launcher.bodyA.position.x,this.launcher.bodyA.position.y,this.launcher.pointB.x,this.launcher.pointB.y)
+        line(this.launcher.bodyA.position.x,this.launcher.bodyA.position.y,this.launcher.point.x,this.launcher.point.y)
         }
     }
 
