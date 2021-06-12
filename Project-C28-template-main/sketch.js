@@ -96,7 +96,7 @@ function mouseDragged() {
 
 function mouseReleased() {
   
-launcher.fly();
+launcherObject.fly();
 
 }
 
